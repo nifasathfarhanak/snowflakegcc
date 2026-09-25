@@ -1,0 +1,501 @@
+counterparty_id,counterparty_name,bank_name,country,risk_category
+CP-0001,Counterparty Entity 1,SBI,IND,NORMAL
+CP-0002,Counterparty Entity 2,Axis Bank,IND,NORMAL
+CP-0003,Counterparty Entity 3,SBI,IND,NORMAL
+CP-0004,Counterparty Entity 4,SBI,IND,NORMAL
+CP-0005,Counterparty Entity 5,ICICI Bank,IND,NORMAL
+CP-0006,Counterparty Entity 6,Kotak Bank,IND,NORMAL
+CP-0007,Counterparty Entity 7,SBI,IND,NORMAL
+CP-0008,Counterparty Entity 8,Kotak Bank,IND,NORMAL
+CP-0009,Counterparty Entity 9,SBI,IND,NORMAL
+CP-0010,Counterparty Entity 10,ICICI Bank,IND,HIGH_RISK
+CP-0011,Counterparty Entity 11,Kotak Bank,IND,NORMAL
+CP-0012,Counterparty Entity 12,Kotak Bank,IND,NORMAL
+CP-0013,Counterparty Entity 13,ICICI Bank,IND,NORMAL
+CP-0014,Counterparty Entity 14,HDFC Bank,IND,NORMAL
+CP-0015,Counterparty Entity 15,Axis Bank,IND,NORMAL
+CP-0016,Counterparty Entity 16,ICICI Bank,IND,NORMAL
+CP-0017,Counterparty Entity 17,Kotak Bank,IND,NORMAL
+CP-0018,Counterparty Entity 18,ICICI Bank,IND,NORMAL
+CP-0019,Counterparty Entity 19,ICICI Bank,IND,NORMAL
+CP-0020,Counterparty Entity 20,HDFC Bank,IND,HIGH_RISK
+CP-0021,Counterparty Entity 21,ICICI Bank,IND,NORMAL
+CP-0022,Counterparty Entity 22,SBI,IND,NORMAL
+CP-0023,Counterparty Entity 23,SBI,IND,NORMAL
+CP-0024,Counterparty Entity 24,Axis Bank,IND,NORMAL
+CP-0025,Counterparty Entity 25,ICICI Bank,IND,NORMAL
+CP-0026,Counterparty Entity 26,Axis Bank,IND,NORMAL
+CP-0027,Counterparty Entity 27,SBI,IND,NORMAL
+CP-0028,Counterparty Entity 28,ICICI Bank,IND,NORMAL
+CP-0029,Counterparty Entity 29,ICICI Bank,IND,NORMAL
+CP-0030,Counterparty Entity 30,HDFC Bank,IND,HIGH_RISK
+CP-0031,Counterparty Entity 31,Axis Bank,IND,NORMAL
+CP-0032,Counterparty Entity 32,Axis Bank,IND,NORMAL
+CP-0033,Counterparty Entity 33,HDFC Bank,IND,NORMAL
+CP-0034,Counterparty Entity 34,HDFC Bank,IND,NORMAL
+CP-0035,Counterparty Entity 35,Axis Bank,IND,NORMAL
+CP-0036,Counterparty Entity 36,ICICI Bank,IND,NORMAL
+CP-0037,Counterparty Entity 37,HDFC Bank,IND,NORMAL
+CP-0038,Counterparty Entity 38,ICICI Bank,IND,NORMAL
+CP-0039,Counterparty Entity 39,SBI,IND,NORMAL
+CP-0040,Counterparty Entity 40,HDFC Bank,IND,HIGH_RISK
+CP-0041,Counterparty Entity 41,SBI,IND,NORMAL
+CP-0042,Counterparty Entity 42,SBI,IND,NORMAL
+CP-0043,Counterparty Entity 43,HDFC Bank,IND,NORMAL
+CP-0044,Counterparty Entity 44,ICICI Bank,IND,NORMAL
+CP-0045,Counterparty Entity 45,HDFC Bank,IND,NORMAL
+CP-0046,Counterparty Entity 46,SBI,IND,NORMAL
+CP-0047,Counterparty Entity 47,Kotak Bank,IND,NORMAL
+CP-0048,Counterparty Entity 48,ICICI Bank,IND,NORMAL
+CP-0049,Counterparty Entity 49,SBI,IND,NORMAL
+CP-0050,Counterparty Entity 50,SBI,IND,HIGH_RISK
+CP-0051,Counterparty Entity 51,Kotak Bank,IND,NORMAL
+CP-0052,Counterparty Entity 52,HDFC Bank,IND,NORMAL
+CP-0053,Counterparty Entity 53,HDFC Bank,IND,NORMAL
+CP-0054,Counterparty Entity 54,Axis Bank,IND,NORMAL
+CP-0055,Counterparty Entity 55,Axis Bank,IND,NORMAL
+CP-0056,Counterparty Entity 56,Axis Bank,IND,NORMAL
+CP-0057,Counterparty Entity 57,HDFC Bank,IND,NORMAL
+CP-0058,Counterparty Entity 58,ICICI Bank,IND,NORMAL
+CP-0059,Counterparty Entity 59,ICICI Bank,IND,NORMAL
+CP-0060,Counterparty Entity 60,HDFC Bank,IND,HIGH_RISK
+CP-0061,Counterparty Entity 61,ICICI Bank,IND,NORMAL
+CP-0062,Counterparty Entity 62,Axis Bank,IND,NORMAL
+CP-0063,Counterparty Entity 63,HDFC Bank,IND,NORMAL
+CP-0064,Counterparty Entity 64,Axis Bank,IND,NORMAL
+CP-0065,Counterparty Entity 65,ICICI Bank,IND,NORMAL
+CP-0066,Counterparty Entity 66,HDFC Bank,IND,NORMAL
+CP-0067,Counterparty Entity 67,Kotak Bank,IND,NORMAL
+CP-0068,Counterparty Entity 68,SBI,IND,NORMAL
+CP-0069,Counterparty Entity 69,Axis Bank,IND,NORMAL
+CP-0070,Counterparty Entity 70,SBI,IND,HIGH_RISK
+CP-0071,Counterparty Entity 71,HDFC Bank,IND,NORMAL
+CP-0072,Counterparty Entity 72,Axis Bank,IND,NORMAL
+CP-0073,Counterparty Entity 73,Axis Bank,IND,NORMAL
+CP-0074,Counterparty Entity 74,SBI,IND,NORMAL
+CP-0075,Counterparty Entity 75,ICICI Bank,IND,NORMAL
+CP-0076,Counterparty Entity 76,Kotak Bank,IND,NORMAL
+CP-0077,Counterparty Entity 77,SBI,IND,NORMAL
+CP-0078,Counterparty Entity 78,HDFC Bank,IND,NORMAL
+CP-0079,Counterparty Entity 79,Axis Bank,IND,NORMAL
+CP-0080,Counterparty Entity 80,ICICI Bank,IND,HIGH_RISK
+CP-0081,Counterparty Entity 81,Kotak Bank,IND,NORMAL
+CP-0082,Counterparty Entity 82,SBI,IND,NORMAL
+CP-0083,Counterparty Entity 83,Kotak Bank,IND,NORMAL
+CP-0084,Counterparty Entity 84,Kotak Bank,IND,NORMAL
+CP-0085,Counterparty Entity 85,SBI,IND,NORMAL
+CP-0086,Counterparty Entity 86,Axis Bank,IND,NORMAL
+CP-0087,Counterparty Entity 87,HDFC Bank,IND,NORMAL
+CP-0088,Counterparty Entity 88,Axis Bank,IND,NORMAL
+CP-0089,Counterparty Entity 89,Axis Bank,IND,NORMAL
+CP-0090,Counterparty Entity 90,HDFC Bank,IND,HIGH_RISK
+CP-0091,Counterparty Entity 91,HDFC Bank,IND,NORMAL
+CP-0092,Counterparty Entity 92,HDFC Bank,IND,NORMAL
+CP-0093,Counterparty Entity 93,HDFC Bank,IND,NORMAL
+CP-0094,Counterparty Entity 94,Axis Bank,IND,NORMAL
+CP-0095,Counterparty Entity 95,Axis Bank,IND,NORMAL
+CP-0096,Counterparty Entity 96,ICICI Bank,IND,NORMAL
+CP-0097,Counterparty Entity 97,Kotak Bank,IND,NORMAL
+CP-0098,Counterparty Entity 98,HDFC Bank,IND,NORMAL
+CP-0099,Counterparty Entity 99,SBI,IND,NORMAL
+CP-0100,Counterparty Entity 100,Axis Bank,IND,HIGH_RISK
+CP-0101,Counterparty Entity 101,ICICI Bank,IND,NORMAL
+CP-0102,Counterparty Entity 102,Axis Bank,IND,NORMAL
+CP-0103,Counterparty Entity 103,HDFC Bank,IND,NORMAL
+CP-0104,Counterparty Entity 104,Axis Bank,IND,NORMAL
+CP-0105,Counterparty Entity 105,HDFC Bank,IND,NORMAL
+CP-0106,Counterparty Entity 106,SBI,IND,NORMAL
+CP-0107,Counterparty Entity 107,Kotak Bank,IND,NORMAL
+CP-0108,Counterparty Entity 108,Axis Bank,IND,NORMAL
+CP-0109,Counterparty Entity 109,Axis Bank,IND,NORMAL
+CP-0110,Counterparty Entity 110,ICICI Bank,IND,HIGH_RISK
+CP-0111,Counterparty Entity 111,SBI,IND,NORMAL
+CP-0112,Counterparty Entity 112,HDFC Bank,IND,NORMAL
+CP-0113,Counterparty Entity 113,SBI,IND,NORMAL
+CP-0114,Counterparty Entity 114,Axis Bank,IND,NORMAL
+CP-0115,Counterparty Entity 115,ICICI Bank,IND,NORMAL
+CP-0116,Counterparty Entity 116,HDFC Bank,IND,NORMAL
+CP-0117,Counterparty Entity 117,SBI,IND,NORMAL
+CP-0118,Counterparty Entity 118,HDFC Bank,IND,NORMAL
+CP-0119,Counterparty Entity 119,ICICI Bank,IND,NORMAL
+CP-0120,Counterparty Entity 120,Axis Bank,IND,HIGH_RISK
+CP-0121,Counterparty Entity 121,SBI,IND,NORMAL
+CP-0122,Counterparty Entity 122,HDFC Bank,IND,NORMAL
+CP-0123,Counterparty Entity 123,HDFC Bank,IND,NORMAL
+CP-0124,Counterparty Entity 124,ICICI Bank,IND,NORMAL
+CP-0125,Counterparty Entity 125,Kotak Bank,IND,NORMAL
+CP-0126,Counterparty Entity 126,SBI,IND,NORMAL
+CP-0127,Counterparty Entity 127,HDFC Bank,IND,NORMAL
+CP-0128,Counterparty Entity 128,HDFC Bank,IND,NORMAL
+CP-0129,Counterparty Entity 129,Axis Bank,IND,NORMAL
+CP-0130,Counterparty Entity 130,HDFC Bank,IND,HIGH_RISK
+CP-0131,Counterparty Entity 131,HDFC Bank,IND,NORMAL
+CP-0132,Counterparty Entity 132,Kotak Bank,IND,NORMAL
+CP-0133,Counterparty Entity 133,HDFC Bank,IND,NORMAL
+CP-0134,Counterparty Entity 134,ICICI Bank,IND,NORMAL
+CP-0135,Counterparty Entity 135,HDFC Bank,IND,NORMAL
+CP-0136,Counterparty Entity 136,ICICI Bank,IND,NORMAL
+CP-0137,Counterparty Entity 137,HDFC Bank,IND,NORMAL
+CP-0138,Counterparty Entity 138,Axis Bank,IND,NORMAL
+CP-0139,Counterparty Entity 139,HDFC Bank,IND,NORMAL
+CP-0140,Counterparty Entity 140,Axis Bank,IND,HIGH_RISK
+CP-0141,Counterparty Entity 141,Kotak Bank,IND,NORMAL
+CP-0142,Counterparty Entity 142,Kotak Bank,IND,NORMAL
+CP-0143,Counterparty Entity 143,Axis Bank,IND,NORMAL
+CP-0144,Counterparty Entity 144,ICICI Bank,IND,NORMAL
+CP-0145,Counterparty Entity 145,Axis Bank,IND,NORMAL
+CP-0146,Counterparty Entity 146,ICICI Bank,IND,NORMAL
+CP-0147,Counterparty Entity 147,ICICI Bank,IND,NORMAL
+CP-0148,Counterparty Entity 148,HDFC Bank,IND,NORMAL
+CP-0149,Counterparty Entity 149,SBI,IND,NORMAL
+CP-0150,Counterparty Entity 150,HDFC Bank,IND,HIGH_RISK
+CP-0151,Counterparty Entity 151,Kotak Bank,IND,NORMAL
+CP-0152,Counterparty Entity 152,SBI,IND,NORMAL
+CP-0153,Counterparty Entity 153,Kotak Bank,IND,NORMAL
+CP-0154,Counterparty Entity 154,ICICI Bank,IND,NORMAL
+CP-0155,Counterparty Entity 155,Axis Bank,IND,NORMAL
+CP-0156,Counterparty Entity 156,HDFC Bank,IND,NORMAL
+CP-0157,Counterparty Entity 157,Axis Bank,IND,NORMAL
+CP-0158,Counterparty Entity 158,Kotak Bank,IND,NORMAL
+CP-0159,Counterparty Entity 159,SBI,IND,NORMAL
+CP-0160,Counterparty Entity 160,HDFC Bank,IND,HIGH_RISK
+CP-0161,Counterparty Entity 161,HDFC Bank,IND,NORMAL
+CP-0162,Counterparty Entity 162,ICICI Bank,IND,NORMAL
+CP-0163,Counterparty Entity 163,HDFC Bank,IND,NORMAL
+CP-0164,Counterparty Entity 164,Kotak Bank,IND,NORMAL
+CP-0165,Counterparty Entity 165,Axis Bank,IND,NORMAL
+CP-0166,Counterparty Entity 166,Kotak Bank,IND,NORMAL
+CP-0167,Counterparty Entity 167,ICICI Bank,IND,NORMAL
+CP-0168,Counterparty Entity 168,Kotak Bank,IND,NORMAL
+CP-0169,Counterparty Entity 169,HDFC Bank,IND,NORMAL
+CP-0170,Counterparty Entity 170,Axis Bank,IND,HIGH_RISK
+CP-0171,Counterparty Entity 171,Axis Bank,IND,NORMAL
+CP-0172,Counterparty Entity 172,ICICI Bank,IND,NORMAL
+CP-0173,Counterparty Entity 173,ICICI Bank,IND,NORMAL
+CP-0174,Counterparty Entity 174,SBI,IND,NORMAL
+CP-0175,Counterparty Entity 175,HDFC Bank,IND,NORMAL
+CP-0176,Counterparty Entity 176,HDFC Bank,IND,NORMAL
+CP-0177,Counterparty Entity 177,ICICI Bank,IND,NORMAL
+CP-0178,Counterparty Entity 178,HDFC Bank,IND,NORMAL
+CP-0179,Counterparty Entity 179,ICICI Bank,IND,NORMAL
+CP-0180,Counterparty Entity 180,HDFC Bank,IND,HIGH_RISK
+CP-0181,Counterparty Entity 181,HDFC Bank,IND,NORMAL
+CP-0182,Counterparty Entity 182,Kotak Bank,IND,NORMAL
+CP-0183,Counterparty Entity 183,Axis Bank,IND,NORMAL
+CP-0184,Counterparty Entity 184,SBI,IND,NORMAL
+CP-0185,Counterparty Entity 185,Axis Bank,IND,NORMAL
+CP-0186,Counterparty Entity 186,ICICI Bank,IND,NORMAL
+CP-0187,Counterparty Entity 187,ICICI Bank,IND,NORMAL
+CP-0188,Counterparty Entity 188,Kotak Bank,IND,NORMAL
+CP-0189,Counterparty Entity 189,ICICI Bank,IND,NORMAL
+CP-0190,Counterparty Entity 190,HDFC Bank,IND,HIGH_RISK
+CP-0191,Counterparty Entity 191,ICICI Bank,IND,NORMAL
+CP-0192,Counterparty Entity 192,Axis Bank,IND,NORMAL
+CP-0193,Counterparty Entity 193,ICICI Bank,IND,NORMAL
+CP-0194,Counterparty Entity 194,ICICI Bank,IND,NORMAL
+CP-0195,Counterparty Entity 195,Kotak Bank,IND,NORMAL
+CP-0196,Counterparty Entity 196,Axis Bank,IND,NORMAL
+CP-0197,Counterparty Entity 197,Kotak Bank,IND,NORMAL
+CP-0198,Counterparty Entity 198,Kotak Bank,IND,NORMAL
+CP-0199,Counterparty Entity 199,SBI,IND,NORMAL
+CP-0200,Counterparty Entity 200,SBI,IND,HIGH_RISK
+CP-0201,Counterparty Entity 201,Axis Bank,IND,NORMAL
+CP-0202,Counterparty Entity 202,SBI,IND,NORMAL
+CP-0203,Counterparty Entity 203,Kotak Bank,IND,NORMAL
+CP-0204,Counterparty Entity 204,SBI,IND,NORMAL
+CP-0205,Counterparty Entity 205,HDFC Bank,IND,NORMAL
+CP-0206,Counterparty Entity 206,Axis Bank,IND,NORMAL
+CP-0207,Counterparty Entity 207,SBI,IND,NORMAL
+CP-0208,Counterparty Entity 208,HDFC Bank,IND,NORMAL
+CP-0209,Counterparty Entity 209,HDFC Bank,IND,NORMAL
+CP-0210,Counterparty Entity 210,SBI,IND,HIGH_RISK
+CP-0211,Counterparty Entity 211,SBI,IND,NORMAL
+CP-0212,Counterparty Entity 212,Axis Bank,IND,NORMAL
+CP-0213,Counterparty Entity 213,Kotak Bank,IND,NORMAL
+CP-0214,Counterparty Entity 214,Kotak Bank,IND,NORMAL
+CP-0215,Counterparty Entity 215,HDFC Bank,IND,NORMAL
+CP-0216,Counterparty Entity 216,Kotak Bank,IND,NORMAL
+CP-0217,Counterparty Entity 217,ICICI Bank,IND,NORMAL
+CP-0218,Counterparty Entity 218,Kotak Bank,IND,NORMAL
+CP-0219,Counterparty Entity 219,SBI,IND,NORMAL
+CP-0220,Counterparty Entity 220,Axis Bank,IND,HIGH_RISK
+CP-0221,Counterparty Entity 221,SBI,IND,NORMAL
+CP-0222,Counterparty Entity 222,SBI,IND,NORMAL
+CP-0223,Counterparty Entity 223,Axis Bank,IND,NORMAL
+CP-0224,Counterparty Entity 224,SBI,IND,NORMAL
+CP-0225,Counterparty Entity 225,HDFC Bank,IND,NORMAL
+CP-0226,Counterparty Entity 226,SBI,IND,NORMAL
+CP-0227,Counterparty Entity 227,HDFC Bank,IND,NORMAL
+CP-0228,Counterparty Entity 228,ICICI Bank,IND,NORMAL
+CP-0229,Counterparty Entity 229,HDFC Bank,IND,NORMAL
+CP-0230,Counterparty Entity 230,ICICI Bank,IND,HIGH_RISK
+CP-0231,Counterparty Entity 231,Kotak Bank,IND,NORMAL
+CP-0232,Counterparty Entity 232,SBI,IND,NORMAL
+CP-0233,Counterparty Entity 233,HDFC Bank,IND,NORMAL
+CP-0234,Counterparty Entity 234,SBI,IND,NORMAL
+CP-0235,Counterparty Entity 235,SBI,IND,NORMAL
+CP-0236,Counterparty Entity 236,Kotak Bank,IND,NORMAL
+CP-0237,Counterparty Entity 237,Axis Bank,IND,NORMAL
+CP-0238,Counterparty Entity 238,ICICI Bank,IND,NORMAL
+CP-0239,Counterparty Entity 239,HDFC Bank,IND,NORMAL
+CP-0240,Counterparty Entity 240,Axis Bank,IND,HIGH_RISK
+CP-0241,Counterparty Entity 241,HDFC Bank,IND,NORMAL
+CP-0242,Counterparty Entity 242,Axis Bank,IND,NORMAL
+CP-0243,Counterparty Entity 243,Axis Bank,IND,NORMAL
+CP-0244,Counterparty Entity 244,ICICI Bank,IND,NORMAL
+CP-0245,Counterparty Entity 245,HDFC Bank,IND,NORMAL
+CP-0246,Counterparty Entity 246,ICICI Bank,IND,NORMAL
+CP-0247,Counterparty Entity 247,ICICI Bank,IND,NORMAL
+CP-0248,Counterparty Entity 248,SBI,IND,NORMAL
+CP-0249,Counterparty Entity 249,Kotak Bank,IND,NORMAL
+CP-0250,Counterparty Entity 250,HDFC Bank,IND,HIGH_RISK
+CP-0251,Counterparty Entity 251,HDFC Bank,IND,NORMAL
+CP-0252,Counterparty Entity 252,SBI,IND,NORMAL
+CP-0253,Counterparty Entity 253,Axis Bank,IND,NORMAL
+CP-0254,Counterparty Entity 254,Axis Bank,IND,NORMAL
+CP-0255,Counterparty Entity 255,Kotak Bank,IND,NORMAL
+CP-0256,Counterparty Entity 256,HDFC Bank,IND,NORMAL
+CP-0257,Counterparty Entity 257,ICICI Bank,IND,NORMAL
+CP-0258,Counterparty Entity 258,HDFC Bank,IND,NORMAL
+CP-0259,Counterparty Entity 259,ICICI Bank,IND,NORMAL
+CP-0260,Counterparty Entity 260,SBI,IND,HIGH_RISK
+CP-0261,Counterparty Entity 261,Axis Bank,IND,NORMAL
+CP-0262,Counterparty Entity 262,Kotak Bank,IND,NORMAL
+CP-0263,Counterparty Entity 263,ICICI Bank,IND,NORMAL
+CP-0264,Counterparty Entity 264,ICICI Bank,IND,NORMAL
+CP-0265,Counterparty Entity 265,Axis Bank,IND,NORMAL
+CP-0266,Counterparty Entity 266,Axis Bank,IND,NORMAL
+CP-0267,Counterparty Entity 267,SBI,IND,NORMAL
+CP-0268,Counterparty Entity 268,Axis Bank,IND,NORMAL
+CP-0269,Counterparty Entity 269,Kotak Bank,IND,NORMAL
+CP-0270,Counterparty Entity 270,Axis Bank,IND,HIGH_RISK
+CP-0271,Counterparty Entity 271,Axis Bank,IND,NORMAL
+CP-0272,Counterparty Entity 272,Axis Bank,IND,NORMAL
+CP-0273,Counterparty Entity 273,ICICI Bank,IND,NORMAL
+CP-0274,Counterparty Entity 274,SBI,IND,NORMAL
+CP-0275,Counterparty Entity 275,HDFC Bank,IND,NORMAL
+CP-0276,Counterparty Entity 276,Kotak Bank,IND,NORMAL
+CP-0277,Counterparty Entity 277,SBI,IND,NORMAL
+CP-0278,Counterparty Entity 278,HDFC Bank,IND,NORMAL
+CP-0279,Counterparty Entity 279,Kotak Bank,IND,NORMAL
+CP-0280,Counterparty Entity 280,Axis Bank,IND,HIGH_RISK
+CP-0281,Counterparty Entity 281,HDFC Bank,IND,NORMAL
+CP-0282,Counterparty Entity 282,Axis Bank,IND,NORMAL
+CP-0283,Counterparty Entity 283,ICICI Bank,IND,NORMAL
+CP-0284,Counterparty Entity 284,Kotak Bank,IND,NORMAL
+CP-0285,Counterparty Entity 285,ICICI Bank,IND,NORMAL
+CP-0286,Counterparty Entity 286,SBI,IND,NORMAL
+CP-0287,Counterparty Entity 287,SBI,IND,NORMAL
+CP-0288,Counterparty Entity 288,ICICI Bank,IND,NORMAL
+CP-0289,Counterparty Entity 289,HDFC Bank,IND,NORMAL
+CP-0290,Counterparty Entity 290,Axis Bank,IND,HIGH_RISK
+CP-0291,Counterparty Entity 291,SBI,IND,NORMAL
+CP-0292,Counterparty Entity 292,Axis Bank,IND,NORMAL
+CP-0293,Counterparty Entity 293,ICICI Bank,IND,NORMAL
+CP-0294,Counterparty Entity 294,ICICI Bank,IND,NORMAL
+CP-0295,Counterparty Entity 295,HDFC Bank,IND,NORMAL
+CP-0296,Counterparty Entity 296,Axis Bank,IND,NORMAL
+CP-0297,Counterparty Entity 297,ICICI Bank,IND,NORMAL
+CP-0298,Counterparty Entity 298,ICICI Bank,IND,NORMAL
+CP-0299,Counterparty Entity 299,Kotak Bank,IND,NORMAL
+CP-0300,Counterparty Entity 300,SBI,IND,HIGH_RISK
+CP-0301,Counterparty Entity 301,HDFC Bank,IND,NORMAL
+CP-0302,Counterparty Entity 302,SBI,IND,NORMAL
+CP-0303,Counterparty Entity 303,HDFC Bank,IND,NORMAL
+CP-0304,Counterparty Entity 304,HDFC Bank,IND,NORMAL
+CP-0305,Counterparty Entity 305,Axis Bank,IND,NORMAL
+CP-0306,Counterparty Entity 306,SBI,IND,NORMAL
+CP-0307,Counterparty Entity 307,ICICI Bank,IND,NORMAL
+CP-0308,Counterparty Entity 308,Kotak Bank,IND,NORMAL
+CP-0309,Counterparty Entity 309,HDFC Bank,IND,NORMAL
+CP-0310,Counterparty Entity 310,Kotak Bank,IND,HIGH_RISK
+CP-0311,Counterparty Entity 311,Kotak Bank,IND,NORMAL
+CP-0312,Counterparty Entity 312,HDFC Bank,IND,NORMAL
+CP-0313,Counterparty Entity 313,HDFC Bank,IND,NORMAL
+CP-0314,Counterparty Entity 314,ICICI Bank,IND,NORMAL
+CP-0315,Counterparty Entity 315,HDFC Bank,IND,NORMAL
+CP-0316,Counterparty Entity 316,SBI,IND,NORMAL
+CP-0317,Counterparty Entity 317,SBI,IND,NORMAL
+CP-0318,Counterparty Entity 318,Kotak Bank,IND,NORMAL
+CP-0319,Counterparty Entity 319,Kotak Bank,IND,NORMAL
+CP-0320,Counterparty Entity 320,SBI,IND,HIGH_RISK
+CP-0321,Counterparty Entity 321,ICICI Bank,IND,NORMAL
+CP-0322,Counterparty Entity 322,ICICI Bank,IND,NORMAL
+CP-0323,Counterparty Entity 323,HDFC Bank,IND,NORMAL
+CP-0324,Counterparty Entity 324,HDFC Bank,IND,NORMAL
+CP-0325,Counterparty Entity 325,Axis Bank,IND,NORMAL
+CP-0326,Counterparty Entity 326,HDFC Bank,IND,NORMAL
+CP-0327,Counterparty Entity 327,ICICI Bank,IND,NORMAL
+CP-0328,Counterparty Entity 328,HDFC Bank,IND,NORMAL
+CP-0329,Counterparty Entity 329,SBI,IND,NORMAL
+CP-0330,Counterparty Entity 330,SBI,IND,HIGH_RISK
+CP-0331,Counterparty Entity 331,HDFC Bank,IND,NORMAL
+CP-0332,Counterparty Entity 332,Axis Bank,IND,NORMAL
+CP-0333,Counterparty Entity 333,Axis Bank,IND,NORMAL
+CP-0334,Counterparty Entity 334,SBI,IND,NORMAL
+CP-0335,Counterparty Entity 335,Kotak Bank,IND,NORMAL
+CP-0336,Counterparty Entity 336,SBI,IND,NORMAL
+CP-0337,Counterparty Entity 337,Axis Bank,IND,NORMAL
+CP-0338,Counterparty Entity 338,Kotak Bank,IND,NORMAL
+CP-0339,Counterparty Entity 339,SBI,IND,NORMAL
+CP-0340,Counterparty Entity 340,HDFC Bank,IND,HIGH_RISK
+CP-0341,Counterparty Entity 341,HDFC Bank,IND,NORMAL
+CP-0342,Counterparty Entity 342,Axis Bank,IND,NORMAL
+CP-0343,Counterparty Entity 343,Kotak Bank,IND,NORMAL
+CP-0344,Counterparty Entity 344,SBI,IND,NORMAL
+CP-0345,Counterparty Entity 345,ICICI Bank,IND,NORMAL
+CP-0346,Counterparty Entity 346,Axis Bank,IND,NORMAL
+CP-0347,Counterparty Entity 347,HDFC Bank,IND,NORMAL
+CP-0348,Counterparty Entity 348,ICICI Bank,IND,NORMAL
+CP-0349,Counterparty Entity 349,HDFC Bank,IND,NORMAL
+CP-0350,Counterparty Entity 350,SBI,IND,HIGH_RISK
+CP-0351,Counterparty Entity 351,Axis Bank,IND,NORMAL
+CP-0352,Counterparty Entity 352,HDFC Bank,IND,NORMAL
+CP-0353,Counterparty Entity 353,Axis Bank,IND,NORMAL
+CP-0354,Counterparty Entity 354,Axis Bank,IND,NORMAL
+CP-0355,Counterparty Entity 355,Kotak Bank,IND,NORMAL
+CP-0356,Counterparty Entity 356,HDFC Bank,IND,NORMAL
+CP-0357,Counterparty Entity 357,ICICI Bank,IND,NORMAL
+CP-0358,Counterparty Entity 358,ICICI Bank,IND,NORMAL
+CP-0359,Counterparty Entity 359,ICICI Bank,IND,NORMAL
+CP-0360,Counterparty Entity 360,Axis Bank,IND,HIGH_RISK
+CP-0361,Counterparty Entity 361,Axis Bank,IND,NORMAL
+CP-0362,Counterparty Entity 362,SBI,IND,NORMAL
+CP-0363,Counterparty Entity 363,ICICI Bank,IND,NORMAL
+CP-0364,Counterparty Entity 364,Kotak Bank,IND,NORMAL
+CP-0365,Counterparty Entity 365,SBI,IND,NORMAL
+CP-0366,Counterparty Entity 366,SBI,IND,NORMAL
+CP-0367,Counterparty Entity 367,Kotak Bank,IND,NORMAL
+CP-0368,Counterparty Entity 368,Kotak Bank,IND,NORMAL
+CP-0369,Counterparty Entity 369,Kotak Bank,IND,NORMAL
+CP-0370,Counterparty Entity 370,Kotak Bank,IND,HIGH_RISK
+CP-0371,Counterparty Entity 371,HDFC Bank,IND,NORMAL
+CP-0372,Counterparty Entity 372,Axis Bank,IND,NORMAL
+CP-0373,Counterparty Entity 373,ICICI Bank,IND,NORMAL
+CP-0374,Counterparty Entity 374,HDFC Bank,IND,NORMAL
+CP-0375,Counterparty Entity 375,ICICI Bank,IND,NORMAL
+CP-0376,Counterparty Entity 376,Axis Bank,IND,NORMAL
+CP-0377,Counterparty Entity 377,Kotak Bank,IND,NORMAL
+CP-0378,Counterparty Entity 378,Axis Bank,IND,NORMAL
+CP-0379,Counterparty Entity 379,Kotak Bank,IND,NORMAL
+CP-0380,Counterparty Entity 380,SBI,IND,HIGH_RISK
+CP-0381,Counterparty Entity 381,ICICI Bank,IND,NORMAL
+CP-0382,Counterparty Entity 382,Kotak Bank,IND,NORMAL
+CP-0383,Counterparty Entity 383,Kotak Bank,IND,NORMAL
+CP-0384,Counterparty Entity 384,SBI,IND,NORMAL
+CP-0385,Counterparty Entity 385,SBI,IND,NORMAL
+CP-0386,Counterparty Entity 386,Axis Bank,IND,NORMAL
+CP-0387,Counterparty Entity 387,ICICI Bank,IND,NORMAL
+CP-0388,Counterparty Entity 388,SBI,IND,NORMAL
+CP-0389,Counterparty Entity 389,SBI,IND,NORMAL
+CP-0390,Counterparty Entity 390,Axis Bank,IND,HIGH_RISK
+CP-0391,Counterparty Entity 391,ICICI Bank,IND,NORMAL
+CP-0392,Counterparty Entity 392,SBI,IND,NORMAL
+CP-0393,Counterparty Entity 393,SBI,IND,NORMAL
+CP-0394,Counterparty Entity 394,SBI,IND,NORMAL
+CP-0395,Counterparty Entity 395,ICICI Bank,IND,NORMAL
+CP-0396,Counterparty Entity 396,HDFC Bank,IND,NORMAL
+CP-0397,Counterparty Entity 397,ICICI Bank,IND,NORMAL
+CP-0398,Counterparty Entity 398,Kotak Bank,IND,NORMAL
+CP-0399,Counterparty Entity 399,HDFC Bank,IND,NORMAL
+CP-0400,Counterparty Entity 400,ICICI Bank,IND,HIGH_RISK
+CP-0401,Counterparty Entity 401,ICICI Bank,IND,NORMAL
+CP-0402,Counterparty Entity 402,HDFC Bank,IND,NORMAL
+CP-0403,Counterparty Entity 403,Kotak Bank,IND,NORMAL
+CP-0404,Counterparty Entity 404,Kotak Bank,IND,NORMAL
+CP-0405,Counterparty Entity 405,Kotak Bank,IND,NORMAL
+CP-0406,Counterparty Entity 406,HDFC Bank,IND,NORMAL
+CP-0407,Counterparty Entity 407,Kotak Bank,IND,NORMAL
+CP-0408,Counterparty Entity 408,ICICI Bank,IND,NORMAL
+CP-0409,Counterparty Entity 409,SBI,IND,NORMAL
+CP-0410,Counterparty Entity 410,Axis Bank,IND,HIGH_RISK
+CP-0411,Counterparty Entity 411,Axis Bank,IND,NORMAL
+CP-0412,Counterparty Entity 412,Kotak Bank,IND,NORMAL
+CP-0413,Counterparty Entity 413,SBI,IND,NORMAL
+CP-0414,Counterparty Entity 414,Kotak Bank,IND,NORMAL
+CP-0415,Counterparty Entity 415,HDFC Bank,IND,NORMAL
+CP-0416,Counterparty Entity 416,SBI,IND,NORMAL
+CP-0417,Counterparty Entity 417,Axis Bank,IND,NORMAL
+CP-0418,Counterparty Entity 418,HDFC Bank,IND,NORMAL
+CP-0419,Counterparty Entity 419,Kotak Bank,IND,NORMAL
+CP-0420,Counterparty Entity 420,Axis Bank,IND,HIGH_RISK
+CP-0421,Counterparty Entity 421,SBI,IND,NORMAL
+CP-0422,Counterparty Entity 422,Kotak Bank,IND,NORMAL
+CP-0423,Counterparty Entity 423,Axis Bank,IND,NORMAL
+CP-0424,Counterparty Entity 424,Kotak Bank,IND,NORMAL
+CP-0425,Counterparty Entity 425,SBI,IND,NORMAL
+CP-0426,Counterparty Entity 426,Kotak Bank,IND,NORMAL
+CP-0427,Counterparty Entity 427,ICICI Bank,IND,NORMAL
+CP-0428,Counterparty Entity 428,Kotak Bank,IND,NORMAL
+CP-0429,Counterparty Entity 429,HDFC Bank,IND,NORMAL
+CP-0430,Counterparty Entity 430,ICICI Bank,IND,HIGH_RISK
+CP-0431,Counterparty Entity 431,ICICI Bank,IND,NORMAL
+CP-0432,Counterparty Entity 432,Kotak Bank,IND,NORMAL
+CP-0433,Counterparty Entity 433,Axis Bank,IND,NORMAL
+CP-0434,Counterparty Entity 434,Axis Bank,IND,NORMAL
+CP-0435,Counterparty Entity 435,ICICI Bank,IND,NORMAL
+CP-0436,Counterparty Entity 436,Kotak Bank,IND,NORMAL
+CP-0437,Counterparty Entity 437,ICICI Bank,IND,NORMAL
+CP-0438,Counterparty Entity 438,Axis Bank,IND,NORMAL
+CP-0439,Counterparty Entity 439,Kotak Bank,IND,NORMAL
+CP-0440,Counterparty Entity 440,Axis Bank,IND,HIGH_RISK
+CP-0441,Counterparty Entity 441,Kotak Bank,IND,NORMAL
+CP-0442,Counterparty Entity 442,HDFC Bank,IND,NORMAL
+CP-0443,Counterparty Entity 443,Kotak Bank,IND,NORMAL
+CP-0444,Counterparty Entity 444,HDFC Bank,IND,NORMAL
+CP-0445,Counterparty Entity 445,Kotak Bank,IND,NORMAL
+CP-0446,Counterparty Entity 446,ICICI Bank,IND,NORMAL
+CP-0447,Counterparty Entity 447,HDFC Bank,IND,NORMAL
+CP-0448,Counterparty Entity 448,Kotak Bank,IND,NORMAL
+CP-0449,Counterparty Entity 449,SBI,IND,NORMAL
+CP-0450,Counterparty Entity 450,ICICI Bank,IND,HIGH_RISK
+CP-0451,Counterparty Entity 451,Axis Bank,IND,NORMAL
+CP-0452,Counterparty Entity 452,HDFC Bank,IND,NORMAL
+CP-0453,Counterparty Entity 453,ICICI Bank,IND,NORMAL
+CP-0454,Counterparty Entity 454,Axis Bank,IND,NORMAL
+CP-0455,Counterparty Entity 455,SBI,IND,NORMAL
+CP-0456,Counterparty Entity 456,SBI,IND,NORMAL
+CP-0457,Counterparty Entity 457,Axis Bank,IND,NORMAL
+CP-0458,Counterparty Entity 458,Kotak Bank,IND,NORMAL
+CP-0459,Counterparty Entity 459,Axis Bank,IND,NORMAL
+CP-0460,Counterparty Entity 460,HDFC Bank,IND,HIGH_RISK
+CP-0461,Counterparty Entity 461,Axis Bank,IND,NORMAL
+CP-0462,Counterparty Entity 462,Axis Bank,IND,NORMAL
+CP-0463,Counterparty Entity 463,HDFC Bank,IND,NORMAL
+CP-0464,Counterparty Entity 464,Axis Bank,IND,NORMAL
+CP-0465,Counterparty Entity 465,HDFC Bank,IND,NORMAL
+CP-0466,Counterparty Entity 466,ICICI Bank,IND,NORMAL
+CP-0467,Counterparty Entity 467,Axis Bank,IND,NORMAL
+CP-0468,Counterparty Entity 468,Kotak Bank,IND,NORMAL
+CP-0469,Counterparty Entity 469,Kotak Bank,IND,NORMAL
+CP-0470,Counterparty Entity 470,ICICI Bank,IND,HIGH_RISK
+CP-0471,Counterparty Entity 471,ICICI Bank,IND,NORMAL
+CP-0472,Counterparty Entity 472,HDFC Bank,IND,NORMAL
+CP-0473,Counterparty Entity 473,Kotak Bank,IND,NORMAL
+CP-0474,Counterparty Entity 474,Axis Bank,IND,NORMAL
+CP-0475,Counterparty Entity 475,Kotak Bank,IND,NORMAL
+CP-0476,Counterparty Entity 476,Axis Bank,IND,NORMAL
+CP-0477,Counterparty Entity 477,HDFC Bank,IND,NORMAL
+CP-0478,Counterparty Entity 478,Axis Bank,IND,NORMAL
+CP-0479,Counterparty Entity 479,HDFC Bank,IND,NORMAL
+CP-0480,Counterparty Entity 480,SBI,IND,HIGH_RISK
+CP-0481,Counterparty Entity 481,HDFC Bank,IND,NORMAL
+CP-0482,Counterparty Entity 482,SBI,IND,NORMAL
+CP-0483,Counterparty Entity 483,SBI,IND,NORMAL
+CP-0484,Counterparty Entity 484,Kotak Bank,IND,NORMAL
+CP-0485,Counterparty Entity 485,HDFC Bank,IND,NORMAL
+CP-0486,Counterparty Entity 486,Axis Bank,IND,NORMAL
+CP-0487,Counterparty Entity 487,HDFC Bank,IND,NORMAL
+CP-0488,Counterparty Entity 488,ICICI Bank,IND,NORMAL
+CP-0489,Counterparty Entity 489,HDFC Bank,IND,NORMAL
+CP-0490,Counterparty Entity 490,ICICI Bank,IND,HIGH_RISK
+CP-0491,Counterparty Entity 491,HDFC Bank,IND,NORMAL
+CP-0492,Counterparty Entity 492,HDFC Bank,IND,NORMAL
+CP-0493,Counterparty Entity 493,Axis Bank,IND,NORMAL
+CP-0494,Counterparty Entity 494,ICICI Bank,IND,NORMAL
+CP-0495,Counterparty Entity 495,Axis Bank,IND,NORMAL
+CP-0496,Counterparty Entity 496,Kotak Bank,IND,NORMAL
+CP-0497,Counterparty Entity 497,HDFC Bank,IND,NORMAL
+CP-0498,Counterparty Entity 498,Kotak Bank,IND,NORMAL
+CP-0499,Counterparty Entity 499,HDFC Bank,IND,NORMAL
+CP-0500,Counterparty Entity 500,SBI,IND,HIGH_RISK
